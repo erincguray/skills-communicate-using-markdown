@@ -3,3 +3,6 @@
 ``` javascript
 console.log("Abuzittin");
 ```
+- [x] Sabah Kalktım
+- [x] Yüzümü Yıkadım
+- [ ] Kahvaltı Yaptım
